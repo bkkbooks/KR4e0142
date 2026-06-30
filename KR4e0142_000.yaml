@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0142/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0142_WYG_000-1a, image: WYG1259/WYG1259-0487a.png}
+body:
+  text: 熊峯集目録别集類五明卷一五言古卷二七言古卷三五言律卷四七言律五言排律五言絶句七言絶句卷五賦表疏碑文記傳文說卷六序銘墓志銘墓表卷七四言古五言古卷八七言古卷九五言律七言律五言排律五言絶句七言絶句六言絶句卷十賦記傳說序贊銘墓志銘墓表臣等謹案熊峯集十卷明石珤撰珤字邦彥藁城人成化丁未進士官至文淵閣大學士諡文隱改諡文介事跡具明史本傳珤出李東陽之門東陽每稱後進可託以柄斯文者惟珤一人皇甫汸嘗刪定其集為四卷嵗久板佚國朝康熙丁未餘姚孫光􅀢為藁城知縣得别集遺稿於其家為合而重刋之嗣聞真定梁清標家有其全稿乃購得續刋共為十卷此本自一卷至四卷為詩五卷六卷為文七卷至九卷又為詩十卷又為文蓋刋板已定不能依類續入故體例叢脞如是也珤詩文皆平正通達具有茶陵之體故東陽特許之當北地信陽駸駸代興之日而珤獨堅守師說屢典文衡皆力斥浮誇使粹然一出於正雖才學皆遜東陽而湜湜持正不趨時好亦可謂堅立之士矣乾隆四十六年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:3f407ad0bdf727c39b7ca8cfb7d2f5c9e43ab56a349a62a5b97e2bcc00d5fe9a
+metadata:
+  title: 熊峰集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:21:56.863285'
+  juan_title: 目録
+  source:
+    repository: kanripo
+    path: KR4e0142/KR4e0142_000.txt
+hash: sha256:f2c6e2bfe9ffd2f9a48852a9ee4eff6b79ace9cb1066358dfe3ba445b73ff06c
